@@ -259,14 +259,7 @@ static void loadStoryScreen() {
 	gStoryScreenData.mNextVoice = 0;
 	gStoryScreenData.mIsStoryOver = 0;
 
-	if(isOnDreamcast())
-	{
-		gStoryScreenData.mSounds = loadMugenSoundFile("game/dreamcast/GAME.snd");
-	}
-	else
-	{
-		gStoryScreenData.mSounds = loadMugenSoundFile("game/GAME.snd");
-	}
+	gStoryScreenData.mSounds = loadMugenSoundFile("game/GAME.snd");
 
 	std::string voicePath;
 	if(isOnDreamcast())
