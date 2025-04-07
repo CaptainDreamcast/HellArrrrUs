@@ -1,0 +1,45 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "So ultimately Dante defeated the lord of hell and took over hell instead of returning to the human world."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "Unfortunately, he wasn't very good at running hell and it went bankrupt in three weeks."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Luckily it was never human hell, it was dog hell, so there wasn't all that much damage done to the afterlife after all."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "So now all dogs go to heaven, by necessity. What a happy end!"
+
+[Image 1]
+anim = 4
+
+[Text 1]
+Speaker = " "
+Text = "Thanks for playing! The end! Your super duper speed run time was: "
+
+[Title]

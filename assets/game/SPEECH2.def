@@ -1,0 +1,41 @@
+[Dialog 1]
+name = "Dante"
+text = "Broni... you aren't naturally outgoing, you are just working hard to be outgoing and get along with people? I never knew..."
+leftanim = "dante"
+
+[Dialog 1]
+name = "Broni"
+text = "Me neither, bro. Woah. Bro I have, like, layers."
+rightanim = "broni"
+
+[Dialog 1]
+name = "Kasha"
+text = "I hear you, I hear you, meow."
+leftanim = "kasha"
+
+[Dialog 1]
+name = "Yammer"
+text = "This is as far as you go, human. I am the lord of this hell and I know everything about everyone here!"
+rightanim = "yammer"
+
+[Dialog 1]
+name = "Yammer"
+text = "Did you know that Broni still wets the bed every wednesday?"
+rightanim = "yammer"
+
+[Dialog 1]
+name = "Broni"
+text = "Bro... not cool..."
+leftanim = "broni"
+
+[Dialog 1]
+name = "Kasha"
+text = "The lord of hell's love of gossip is terrifying, meow!"
+leftanim = "kasha"
+
+[Dialog 1]
+name = "Dante"
+text = "Yammer- I have come to love people and their hidden depths over the three conversations I had in the past five minutes- I can't let you get away with this!"
+leftanim = "dante"
+
+

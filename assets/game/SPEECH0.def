@@ -1,0 +1,23 @@
+[Dialog 1]
+name = "Dante"
+text = "OUCH! I can't believe I'm alive, just goes to show what a unique and special person I am!"
+
+[Dialog 1]
+name = "Kasha"
+text = "Meow?! A living human, meow! Here in hell, meow?! At this meowing... depth?!"
+rightanim = "kasha"
+
+[Dialog 1]
+name = "Dante"
+text = "What have I done to end up in hell?! Unlike all the shallow sheeple, my personality actually has... depth!"
+leftanim = "dante"
+
+[Dialog 1]
+name = "Kasha"
+text = "You aren't dead, meow, you fell down to hell through a crack in the floor, here in hell we refer to cats like you as 'crackheads'. Now you must fight your way back up, meow!"
+rightanim = "kasha"
+
+[Dialog 1]
+name = "Kasha"
+text = "Because Hell... R US!"
+rightanim = "kasha"

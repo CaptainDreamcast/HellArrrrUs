@@ -1,0 +1,37 @@
+[Dialog 1]
+name = "Kasha"
+text = "So you're nyat all talk, meow. You might make it back to the human world, woof!"
+rightanim = "kasha"
+
+[Dialog 1]
+name = "Dante"
+text = "Kasha... I thought you were just an idiotic cat person... but talking to you I see you aren't as shallow as I had originally thought."
+leftanim = "dante"
+
+[Dialog 1]
+name = "Kasha"
+text = "I- idiotic cat person, meow?"
+rightanim = "kasha"
+
+
+[Dialog 1]
+name = "Dante"
+text = "Could it be... people aren't sheeple?!"
+leftanim = "dante"
+
+
+[Dialog 1]
+name = "Broni"
+text = "Sup Kasha, I got the cartoons you lent m- Oh, a new dude. W- wanna hit up a succubus party in the second circle later, bro?"
+rightanim = "broni"
+
+[Dialog 1]
+name = "Dante"
+text = "How shallow, I was right, nobody except me has depth!"
+leftanim = "dante"
+
+[Dialog 1]
+name = "Broni"
+text = "Bro?"
+rightanim = "broni"
+
